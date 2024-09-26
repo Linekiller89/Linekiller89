@@ -24,33 +24,8 @@
 
 ## Major Projects
 
-### 1. Tesla Clone Project
-- **설명**: Tesla의 공식 웹사이트의 홈화면 클론하여 만들었으며, 차량, 충전, 쇼핑 메뉴 등을 구현.
-- **기능**: 
-  - 헤더의 스크롤 이벤트에 따른 동적 메뉴 표시/숨김 기능.
-  - 모바일 및 데스크탑에서의 메뉴 인터랙션 및 반응형 레이아웃.
-  - 자바스크립트를 이용한 메뉴 항목별 서브 메뉴 표시.
-- **사용 기술**: HTML, CSS, JavaScript
+### - Tesla Clone Project
 
-## Installation and Execution
-
-1. Clone this repository using Git:
-    ```bash
-    git clone https://github.com/Linekiller89/TeslaClone_Portfolio_Projects.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd TeslaClone_Portfolio_Projects
-    ```
-
-3. Open the `index.html` file in your browser to run the project:
-    - For development purposes, you can use a live server such as the Live Server extension in VS Code.
-
-## Future Updates
-
-- 추가적인 기능 및 성능 최적화 계획을 언급합니다.
-- 인터랙티브한 차량 구성 기능과 애니메이션을 추가할 예정입니다.
 
 ## Contact
 
