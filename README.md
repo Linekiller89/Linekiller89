@@ -1,7 +1,7 @@
 # Portfolio Projects
 
 ## Project Overview
-This repository contains a collection of my portfolio projects. Each project has been developed using **HTML**, **CSS**, and **JavaScript**, focusing on user experience and responsive web design.
+- 이 저장소는 제가 진행한 포트폴리오 프로젝트들을 모아둔 공간입니다. 각 프로젝트는 **HTML**, **CSS**, **JavaScript**를 사용하여 제작되었으며, 사용자 경험과 반응형 웹 디자인을 중심으로 구축되었습니다.
 
 ## Available Skills 💪
 
@@ -25,24 +25,34 @@ This repository contains a collection of my portfolio projects. Each project has
 ## Major Projects
 
 ### 1. Tesla Clone Project
-- **Description**: A clone of Tesla's official website, implementing vehicle, charging, and shopping menus.
-- **Features**: 
-  - Dynamic menu display/hide based on scroll events in the header.
-  - Responsive layout and interaction for both mobile and desktop.
-  - Submenu display for each menu item using JavaScript.
-- **Tech Stack**: HTML, CSS, JavaScript
-
+- **설명**: Tesla의 공식 웹사이트의 홈화면 클론하여 만들었으며, 차량, 충전, 쇼핑 메뉴 등을 구현.
+- **기능**: 
+  - 헤더의 스크롤 이벤트에 따른 동적 메뉴 표시/숨김 기능.
+  - 모바일 및 데스크탑에서의 메뉴 인터랙션 및 반응형 레이아웃.
+  - 자바스크립트를 이용한 메뉴 항목별 서브 메뉴 표시.
+- **사용 기술**: HTML, CSS, JavaScript
 
 ## Installation and Execution
 
-1.
+1. Clone this repository using Git:
+    ```bash
+    git clone https://github.com/Linekiller89/TeslaClone_Portfolio_Projects.git
+    ```
 
+2. Navigate to the project directory:
+    ```bash
+    cd TeslaClone_Portfolio_Projects
+    ```
+
+3. Open the `index.html` file in your browser to run the project:
+    - For development purposes, you can use a live server such as the Live Server extension in VS Code.
 
 ## Future Updates
 
-- Mention potential improvements or additional plans for the projects.
+- 추가적인 기능 및 성능 최적화 계획을 언급합니다.
+- 인터랙티브한 차량 구성 기능과 애니메이션을 추가할 예정입니다.
 
 ## Contact
 
 If you have any inquiries regarding my portfolio, feel free to contact me at:
-- Email: [email@example.com](mailto:email@example.com)
+- **Email**: [wkdnfla14@gmail.com](mailto:wkdnfla14@gmail.com)
